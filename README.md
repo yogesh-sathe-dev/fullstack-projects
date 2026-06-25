@@ -63,7 +63,7 @@ This repository contains **15+ full stack projects** built as part of an intensi
 
 ## 🏆 Featured Project: Job Application Tracker
 
-A full stack MERN application to track job applications with powerful features:
+A full stack MERN application to track job applications with important features:
 
 - 📊 **Dashboard** — Stats, charts, and insights
 - 📋 **Kanban Board** — Drag & drop to manage application stages
