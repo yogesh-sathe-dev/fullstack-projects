@@ -1,0 +1,4 @@
+var, let and const:
+      var, let, and const are all used to declare variables in JavaScript, but they differ in scope, reassignment, redeclaration, and hoisting.
+
+
