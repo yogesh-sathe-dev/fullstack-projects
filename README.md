@@ -3,7 +3,7 @@
 **Developer:** Yogesh Sathe  
 **Email:** yogesh.sathe.dev@gmail.com  
 **Phone:** +91 8767061741  
-**Location:** Maharashtra, India  
+**Location:** Pune, Maharashtra, India  
 
 ---
 
